@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SimplySpark/1.0.0": {
+        "runtime": {
+          "SimplySpark.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimplySpark/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
